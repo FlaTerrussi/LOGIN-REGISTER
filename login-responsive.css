@@ -1,0 +1,37 @@
+@media (max-width: 850px) {
+
+
+    .box {
+        flex-direction: column;
+        height: 700px;
+      
+        
+       
+        
+     
+    }
+
+
+
+   
+    .background {
+        height: 100vh;
+    }
+
+    .background {
+        padding: 90px;
+    }
+
+    .div1 {
+        height: 400px;
+        width: 500px;
+        
+    }
+
+
+  
+
+    
+
+    
+}
