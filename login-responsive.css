@@ -1,5 +1,9 @@
 @media (max-width: 850px) {
-
+    
+    
+    * {
+        overflow: hidden;
+    }
 
     .box {
         flex-direction: column;
